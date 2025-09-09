@@ -7,8 +7,8 @@ It covers data cleaning, exploratory data analysis (EDA), predictive modeling (c
 
 ## Contributors
 
--[Tejas Panchal](https://github.com/Tejas-panchal-MXXI)
--[Veer Mehta](https://github.com/Gem992)
+- [Tejas Panchal](https://github.com/Tejas-panchal-MXXI)
+- [Veer Mehta](https://github.com/Gem992)
 
 ## 📌 Project Objectives
 - Handled missing values through advanced techniques like t-test and MICE.
