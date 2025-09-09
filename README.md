@@ -5,8 +5,13 @@ It covers data cleaning, exploratory data analysis (EDA), predictive modeling (c
 
 ---
 
+## Contributors
+
+-[Tejas Panchal](https://github.com/Tejas-panchal-MXXI)
+-[Veer Mehta](https://github.com/Gem992)
+
 ## 📌 Project Objectives
-- Handle missing values in real-world datasets using statistical imputation (mean/mode).  
+- Handled missing values through advanced techniques like t-test and MICE.
 - Perform **EDA** with descriptive statistics and visualizations to identify key patterns in automobile data.  
 - Build **classification models** (Logistic Regression) to categorize vehicles (e.g., fuel type, market category).  
 - Apply **regression models** (Linear Regression) to predict car prices (MSRP).  
